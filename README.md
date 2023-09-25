@@ -2,14 +2,6 @@
 
 ###
 
-<h1 align="left">Alexis</h1>
-
-###
-
-<img align="left" height="200" src="https://avatars.githubusercontent.com/u/144317954?s=400&u=90f22bed249c85ac36c4bc9aa052e65b1a4ffb1f&v=4"  />
-
-###
-
 <p align="left">Programming skills in:</p>
 
 ###
@@ -41,11 +33,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/AlexisContrerasIriarte/AlexisContrerasIriarte/output/snake.svg" alt="Snake animation" />
 
 ###
